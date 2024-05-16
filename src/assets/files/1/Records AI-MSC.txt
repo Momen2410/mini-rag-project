@@ -1,0 +1,24 @@
+*AI:*
+
+Session Name: Intro To AI & And History 
+Instructor: Momen Walied
+NO. Attendance: 130
+
+Link:
+https://arabou.sharepoint.com/:v:/s/MSCAICourse/EUGiPDgqiBdIiQjj9Zfs9rQB9U7S4jWiflLqp6oqq3PznQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EQbiYj
+
+---------------------------------------------------------------------------------
+Session Name: Python for AI 
+Instructor: Mohamed Ali
+NO. Attendance: 67
+
+Link:
+https://arabou.sharepoint.com/:v:/s/MSCAICourse/ET-3K14h6RVIjDl2G93tup8BKLkG4L96aY4Ik_Db_0Yh5w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XHMRdZ
+---------------------------------------------------------------------------------
+
+Session Name: The Gradient Descent Optimizer
+Instructor: Momen Walied
+NO. Attendance: 49
+
+Link:
+https://arabou.sharepoint.com/:v:/s/MSCAICourse/EQNIXoCH9jBHs4f-PzljgF4B7vgaz3fT8uzV6vKjVbvKBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QTY4SE
